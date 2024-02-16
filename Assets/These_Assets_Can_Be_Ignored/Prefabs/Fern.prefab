@@ -129,10 +129,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: da99866073ae5a3458e173ca6e11de83,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: da99866073ae5a3458e173ca6e11de83,
+        type: 3}
+      propertyPath: m_DynamicOccludee
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: da99866073ae5a3458e173ca6e11de83,
+        type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: da99866073ae5a3458e173ca6e11de83,
+        type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: da99866073ae5a3458e173ca6e11de83,
         type: 3}
       propertyPath: m_Name
       value: Fern
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: da99866073ae5a3458e173ca6e11de83,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da99866073ae5a3458e173ca6e11de83, type: 3}
@@ -209,6 +234,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f52164246c801ad44b3101be3cff3ba1,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.32893473
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f52164246c801ad44b3101be3cff3ba1,
         type: 3}
@@ -291,6 +321,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 22dc11ddf0078184d888232f3cc7fd7f,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.93563235
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 22dc11ddf0078184d888232f3cc7fd7f,
         type: 3}
       propertyPath: m_Name
@@ -371,6 +406,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 3342ca330120d314c950b494cb3c79fb,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.60416716
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 3342ca330120d314c950b494cb3c79fb,
         type: 3}
