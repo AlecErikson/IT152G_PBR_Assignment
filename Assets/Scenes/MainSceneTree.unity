@@ -4936,6 +4936,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1607876687}
     m_Modifications:
+    - target: {fileID: 3359730855562708456, guid: cd4af3b7e0e5c16408508fd9053855c3,
+        type: 3}
+      propertyPath: m_PreserveUVs
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359730855562708456, guid: cd4af3b7e0e5c16408508fd9053855c3,
+        type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3755804828116452141, guid: cd4af3b7e0e5c16408508fd9053855c3,
         type: 3}
       propertyPath: m_Name
@@ -4954,7 +4964,7 @@ PrefabInstance:
     - target: {fileID: 3864322786521752637, guid: cd4af3b7e0e5c16408508fd9053855c3,
         type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 127
       objectReference: {fileID: 0}
     - target: {fileID: 8790934896099922315, guid: cd4af3b7e0e5c16408508fd9053855c3,
         type: 3}
@@ -55342,13 +55352,13 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0.91771495, b: 0.5801887, a: 1}
-  m_Intensity: 3
-  m_Range: 5
+  m_Intensity: 7
+  m_Range: 6
   m_SpotAngle: 83.96984
   m_InnerSpotAngle: 65.65258
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 1
+    m_Type: 2
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
